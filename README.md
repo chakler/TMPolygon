@@ -4,7 +4,7 @@
 Features
 --------
 
-TMPolygon is an abstract font created for headlines. The font is consisted of 55 glyphs, including same glyphs for capital and small letter "A-Z", with "." and "-".
+TMPolygon is an abstract font created for headlines. The font is consisted of 28 glyphs, including same glyphs for capital and small letter "A-Z", with "." and "-".
 
 ![alt text](http://tmpolygon.themissingbulb.com/images/tmpolygon_github.jpg "Glyphs")
 
