@@ -6,6 +6,8 @@ Features
 
 TMPolygon is an abstract font created for headlines. The font is consisted of 55 glyphs, including "A-Z", "a-z", "." and "-".
 
+![alt text](http://tmpolygon.themissingbulb.com/images/tmpolygon_git.jpg "Glyphs")
+
 Usage
 -----
 
