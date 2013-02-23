@@ -40,7 +40,7 @@ TMPolygon is 100% usable, however it is still at it's first stage of design. The
 Acknowledgements
 ----------------
 
-Copyright (c) Febuary 23rd, 2013, Aceler Chua (http://themissingbulb.com)|(chakler@themissingbulb.com),
+Copyright (c) Febuary 23rd, 2013, Aceler Chua (http://themissingbulb.com) | (chakler@themissingbulb.com),
 with Reserved Font Name TMPolygon.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
