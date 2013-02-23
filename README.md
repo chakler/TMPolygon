@@ -20,19 +20,19 @@ Usage
 
 	1. Include all the content of "Web Font" folder into the root folder of your website.
 
-	2. Include the following code to the <head> of your html file.
+	2. Include the following code to the head of your html file.
 
-	``` html
-	<link rel="stylesheet" href="css/tmpolygon.css" type="text/css" />
-	```
+		``` html
+		<link rel="stylesheet" href="css/tmpolygon.css" type="text/css" />
+		```
 
 	3. Apply the font family declaration to selected selector, for example,
 	
-	``` css
-	body {
-		font-family: 'tmpolygonregular';
-	}
-	```
+		``` css
+		body {
+			font-family: 'tmpolygonregular';
+		}
+		```
 
 Warning
 -------
